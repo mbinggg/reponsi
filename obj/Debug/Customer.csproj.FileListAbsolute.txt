@@ -1,0 +1,7 @@
+D:\18.11.2250\responsi uas\Cust\Cust\obj\Debug\Customer.csprojAssemblyReference.cache
+D:\18.11.2250\responsi uas\Cust\Cust\obj\Debug\Customer.csproj.CoreCompileInputs.cache
+D:\18.11.2250\responsi uas\Cust\Cust\bin\Debug\Cust.exe.config
+D:\18.11.2250\responsi uas\Cust\Cust\bin\Debug\Cust.exe
+D:\18.11.2250\responsi uas\Cust\Cust\bin\Debug\Cust.pdb
+D:\18.11.2250\responsi uas\Cust\Cust\obj\Debug\Cust.exe
+D:\18.11.2250\responsi uas\Cust\Cust\obj\Debug\Cust.pdb
